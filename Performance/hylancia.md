@@ -17,6 +17,7 @@ A list of performance-enhancing mods for 1.20.x fabric versions.
 | [Sodium Extra](https://modrinth.com/mod/sodium-extra) [![Modrinth](/Images/modrinth.png)](https://modrinth.com/mod/sodium-extra) [![Github Logo](/Images/github.png)](https://github.com/FlashyReese/sodium-extra-fabric)   | Unknown | mesh of optifine and sodium | Client |
 | [Sodium](https://modrinth.com/mod/sodium) [![Modrinth](/Images/modrinth.png)](https://modrinth.com/mod/sodium) [![Github Logo](/Images/github.png)](https://github.com/CaffeineMC/sodium-fabric)   | Unknown | Rendering Optimizations | Both |
 | [View Distance Fix](https://modrinth.com/mod/view-distance-fix) [![Modrinth](/Images/modrinth.png)](https://modrinth.com/mod/view-distance-fix) [![Github Logo](/Images/github.png)](https://github.com/henkelmax/view-distance-fix)   | Unknown | lets client have different render than server | Server |
+| [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) [![Modrinth](/Images/modrinth.png)](https://modrinth.com/mod/memoryleakfix) [![Github Logo](/Images/github.png)](https://github.com/fxmorin/MemoryLeakFix)   | Unknown | lets client have different render than server | Server |
 
 [![Home](/Images/home.png)](/README.md)
 
