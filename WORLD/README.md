@@ -2,4 +2,4 @@
 Enjoy
 [Download](LINK)
 
-[![Home](/Images/home.png)](/README.md) [Home](/README.md)
+[![Home](/Images/home.png)](/main.md) [Home](/Main.md)

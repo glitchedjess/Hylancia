@@ -23,6 +23,6 @@ A list of Qol mods for 1.20.x fabric versions.
 
 
 
-[![Home](/Images/home.png)](/README.md) [Home](/README.md)
+[![Home](/Images/home.png)](/Main.md) [Home](/Main.md)
 
 
