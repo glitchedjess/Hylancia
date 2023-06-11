@@ -18,7 +18,7 @@ A list of Qol mods for 1.20.x fabric versions.
 | [Mod menu](https://modrinth.com/mod/modmenu) [![Modrinth](/Images/modrinth.png)](https://modrinth.com/mod/modmenu)[![Github Logo](/Images/github.png)](https://github.com/TerraformersMC/ModMenu)   | Unknown | Mod manager in client |
 | [Indium](https://modrinth.com/mod/indium) [![Modrinth](/Images/modrinth.png)](https://modrinth.com/mod/indium)[![Github Logo](/Images/github.png)](https://github.com/comp500/Indium)   | Unknown | Shader Support |
 | [Iris Shaders](https://modrinth.com/mod/iris) [![Modrinth](/Images/modrinth.png)](https://modrinth.com/mod/iris)[![Github Logo](/Images/github.png)](https://github.com/IrisShaders/Iris)   | Unknown | Shaders |
-
+| [No Chat Reports](https://modrinth.com/mod/no-chat-reports) [![Modrinth](/Images/modrinth.png)](https://modrinth.com/mod/no-chat-reports)[![Github Logo](/Images/github.png)](https://github.com/Aizistral-Studios/No-Chat-Reports)   | Unknown | no chat reporting |
 
 
 
