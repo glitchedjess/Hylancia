@@ -24,5 +24,5 @@ A list of performance-enhancing mods for 1.20.x fabric versions.
 
 
 
-[Home][![Home](/Images/home.png)](/README.md)
+[Home](/Images/home.png)](/README.md)
 
