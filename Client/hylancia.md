@@ -23,6 +23,6 @@ A list of performance-enhancing mods for 1.20.x fabric versions.
 
 
 
+[Home](/README.md) [![Home](/Images/curseforge.png)]
 
-[Home](/Images/home.png)](/README.md)
 
