@@ -1,6 +1,6 @@
-# Performance Mods
+# Qol Client Mods
 
-A list of performance-enhancing mods for 1.20.x fabric versions.
+A list of Qol mods for 1.20.x fabric versions.
 
 ## Fabric 1.20.X
 

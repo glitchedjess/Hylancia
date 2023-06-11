@@ -19,5 +19,5 @@ A list of performance-enhancing mods for 1.20.x fabric versions.
 | [View Distance Fix](https://modrinth.com/mod/view-distance-fix) [![Modrinth](/Images/modrinth.png)](https://modrinth.com/mod/view-distance-fix) [![Github Logo](/Images/github.png)](https://github.com/henkelmax/view-distance-fix)   | Unknown | lets client have different render than server | Server |
 | [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) [![Modrinth](/Images/modrinth.png)](https://modrinth.com/mod/memoryleakfix) [![Github Logo](/Images/github.png)](https://github.com/fxmorin/MemoryLeakFix)   | Unknown | lets client have different render than server | Server |
 
-[![Home](/Images/home.png)](/README.md)
+[![Home](/Images/home.png)](/README.md) [Home](/README.md)
 
