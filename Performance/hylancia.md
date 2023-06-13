@@ -18,6 +18,7 @@ A list of performance-enhancing mods for 1.20.x fabric versions.
 | [Sodium](https://modrinth.com/mod/sodium) [![Modrinth](/Images/modrinth.png)](https://modrinth.com/mod/sodium) [![Github Logo](/Images/github.png)](https://github.com/CaffeineMC/sodium-fabric)   | Optifine | Rendering Optimizations | Both |
 | [View Distance Fix](https://modrinth.com/mod/view-distance-fix) [![Modrinth](/Images/modrinth.png)](https://modrinth.com/mod/view-distance-fix) [![Github Logo](/Images/github.png)](https://github.com/henkelmax/view-distance-fix)   | Unknown | lets client have different render than server | Server |
 | [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) [![Modrinth](/Images/modrinth.png)](https://modrinth.com/mod/memoryleakfix) [![Github Logo](/Images/github.png)](https://github.com/fxmorin/MemoryLeakFix)   | Unknown | lets client have different render than server | Server |
+| [Let Me Despawn](https://modrinth.com/plugin/lmd) [![Modrinth](/Images/modrinth.png)](https://modrinth.com/plugin/lmd) [![Github Logo](/Images/github.png)](https://github.com/frikinjay/let-me-despawn)   | Unknown | despawns mobs even holding items | Server |
 
 [![Home](/Images/home.png)](/Main.md) [Home](/Main.md)
 
