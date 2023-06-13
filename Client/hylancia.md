@@ -19,7 +19,7 @@ A list of Qol mods for 1.20.x fabric versions.
 | [Indium](https://modrinth.com/mod/indium) [![Modrinth](/Images/modrinth.png)](https://modrinth.com/mod/indium)[![Github Logo](/Images/github.png)](https://github.com/comp500/Indium)   | Unknown | Shader Support |
 | [Iris Shaders](https://modrinth.com/mod/iris) [![Modrinth](/Images/modrinth.png)](https://modrinth.com/mod/iris)[![Github Logo](/Images/github.png)](https://github.com/IrisShaders/Iris)   | Unknown | Shaders |
 | [No Chat Reports](https://modrinth.com/mod/no-chat-reports) [![Modrinth](/Images/modrinth.png)](https://modrinth.com/mod/no-chat-reports)[![Github Logo](/Images/github.png)](https://github.com/Aizistral-Studios/No-Chat-Reports)   | Unknown | no chat reporting |
-
+| [Trade Cylcing](https://www.curseforge.com/minecraft/mc-mods/trade-cycling) [![Curseforge](/Images/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/trade-cycling)[![Github Logo](/Images/github.png)](https://github.com/henkelmax/trade-cycling)   | Unknown | Ccycles trades without eeding to pickup workstation |
 
 
 
